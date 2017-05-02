@@ -1,0 +1,5 @@
+siteName = 168直播网
+tel = 6780088
+logo = http://gdzc168.com/logo.png
+ad1 = <a href="https://www.hgaa008.cn/?intr=dkk68886"><img src="http://gdzc168.com/ad1.jpg" style="width:100%" /></a>
+ad2 = <a href="https://bet365.one//?intr=dkk68886"><img src="http://gdzc168.com/ad2.jpg" style="width:100%" /></a>
